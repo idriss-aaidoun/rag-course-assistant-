@@ -1,0 +1,7 @@
+echo ".venv/
+vectorstore/
+data/cours/
+__pycache__/
+*.pyc
+.env
+*.index" > .gitignore

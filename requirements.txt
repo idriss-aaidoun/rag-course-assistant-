@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+pypdf
+gradio
+python-dotenv
+unstructured
